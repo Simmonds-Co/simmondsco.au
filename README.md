@@ -10,6 +10,7 @@ Based on [Hugo](https://gohugo.io/) and [Blowfish](https://blowfish.page/docs/in
 winget install --id Git.Git -e
 winget install OpenJS.NodeJS -e
 winget install Hugo.Hugo.Extended -e
+winget install Amazon.AWSCLI -e
 ```
 
 ## Setup

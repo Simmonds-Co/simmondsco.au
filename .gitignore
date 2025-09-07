@@ -1,0 +1,12 @@
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Editor/OS specific files
+.DS_Store
+.vscode/
+
+# Binaries if committed
+hugo.exe
+hugo.linux
+hugo.darwin

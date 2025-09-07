@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Simmonds & Co."
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "mountain.png"
+description = "Simmonds and Co is an Australian fintech developer and partner, that is obsessed with delighting its customers"

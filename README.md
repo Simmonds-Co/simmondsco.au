@@ -2,7 +2,7 @@
 
 Based on [Hugo](https://gohugo.io/) and [Blowfish](https://blowfish.page/docs/installation/).
 
-## Base software needed
+## Setup
 
 **Windows**:
 
@@ -13,7 +13,7 @@ winget install Hugo.Hugo.Extended -e
 winget install Amazon.AWSCLI -e
 ```
 
-## Setup
+## Running
 
 ```sh
 git clone git@github.com:Simmonds-Co/simmondsco.au.git
